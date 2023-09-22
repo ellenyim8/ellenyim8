@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ellenyim18@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ellen-yim/overlay/1635540883678/single-media-viewer/?profileId=ACoAACVRUqQBGn6LGXEr-wl_F29bNVhrkbVJ0ew](https://www.linkedin.com/in/ellen-yim/overlay/1635540883678/single-media-viewer/?profileId=ACoAACVRUqQBGn6LGXEr-wl_F29bNVhrkbVJ0ew)
+- 📄 Know about my experiences [https://www.linkedin.com/in/ellen-yim](LinkedIn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
