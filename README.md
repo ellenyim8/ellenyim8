@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ellen Yim</h1>
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Portfolio](https://github.com/ellenyim8/MyPortfolio)
+- 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Portfolio](https://ellenyim8.github.io/MyPortfolio/)
 
 - 📫 How to reach me **ellenyim18@gmail.com**
 
