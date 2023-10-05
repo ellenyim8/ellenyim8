@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ellen Yim</h1>
-<h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in fields: A.I., Software Engineering, Data Analysis, and Cybersecurity.</h3>
+<h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data Analysis, or Cybersecurity.</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Portfolio](https://ellenyim8.github.io/MyPortfolio/)
 
