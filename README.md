@@ -5,7 +5,6 @@
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 --->
 
-Status update: hi, currently I'm traveling in Europe until Oct 31, 2023.
 
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Website](https://ellenyim8.github.io/MyPortfolio/)
