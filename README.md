@@ -4,12 +4,13 @@
 <!---
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 --->
-
-
+- 🌱 I’m currently learning skills to become a Data Analyst.
+- 👯 I’m looking to collaborate with anyone.
+- 😄 Pronouns: she/her
+- 📫 How to reach me: [Instagram](https://www.instagram.com/ellenyim8/), [Facebook](https://www.facebook.com/ellenyim8), [LinkedIn](https://www.linkedin.com/in/ellen-yim), [Email](**ellenyim18@gmail.com**)
+- ⚡ Fun fact: I love hiking and traveling to new places. 
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Website](https://ellenyim8.github.io/MyPortfolio/)
-
-- 📫 How to reach me **ellenyim18@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ellen-yim](https://www.linkedin.com/in/ellen-yim)
 
