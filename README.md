@@ -11,7 +11,7 @@
   https://www.instagram.com/ellenyim8/ <br> 
   https://www.facebook.com/ellenyim8 <br> 
   https://www.linkedin.com/in/ellen-yim  <br> 
-  **ellenyim18@gmail.com** <br> 
+  <b>ellenyim18@gmail.com</b>
 - ⚡ Fun fact: I love hiking and traveling to new places. 
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Website](https://ellenyim8.github.io/MyPortfolio/)
