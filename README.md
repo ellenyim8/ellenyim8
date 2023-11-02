@@ -7,7 +7,11 @@
 - 🌱 I’m currently learning skills to become a Data Analyst.
 - 👯 I’m looking to collaborate with anyone.
 - 😄 Pronouns: she/her
-- 📫 How to reach me: [Instagram](https://www.instagram.com/ellenyim8/), [Facebook](https://www.facebook.com/ellenyim8), [LinkedIn](https://www.linkedin.com/in/ellen-yim), [Email](**ellenyim18@gmail.com**)
+- 📫 How to reach me: 
+  https://www.instagram.com/ellenyim8/ <br> 
+  https://www.facebook.com/ellenyim8 <br> 
+  https://www.linkedin.com/in/ellen-yim  <br> 
+  **ellenyim18@gmail.com** <br> 
 - ⚡ Fun fact: I love hiking and traveling to new places. 
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Website](https://ellenyim8.github.io/MyPortfolio/)
