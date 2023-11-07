@@ -4,8 +4,8 @@
 <!---
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 --->
-- 🌱 I’m currently learning skills to become a Data Analyst.
-
+<!-- - 🌱 I’m currently learning skills to become a Data Analyst.
+ -->
 - 👯 I’m looking to collaborate with anyone.
 
 - 😄 Pronouns: she/her
