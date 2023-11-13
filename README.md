@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: I love hiking and traveling to new places. 
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/ellenyim8](https://www.github.com/ellenyim8) & [Website](https://ellenyim8.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ellen-yim](https://www.linkedin.com/in/ellen-yim)
 
