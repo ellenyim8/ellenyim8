@@ -13,10 +13,10 @@
 - 😄 Pronouns: she/her
 
 - 📫 How to reach me:  <br> 
-  https://www.instagram.com/ellenyim8/ <br> 
-  https://www.facebook.com/ellenyim8 <br> 
   https://www.linkedin.com/in/ellen-yim  <br> 
   <b>ellenyim18@gmail.com</b>
+  https://www.instagram.com/ellenyim8/ <br> 
+  https://www.facebook.com/ellenyim8 <br> 
 
 - ⚡ Fun fact: I love hiking and traveling to new places. 
 
