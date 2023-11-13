@@ -14,7 +14,7 @@
 
 - 📫 How to reach me:  <br> 
   https://www.linkedin.com/in/ellen-yim  <br> 
-  <b>ellenyim18@gmail.com</b>
+  <b>ellenyim18@gmail.com</b> <br> 
   https://www.instagram.com/ellenyim8/ <br> 
   https://www.facebook.com/ellenyim8 <br> 
 
