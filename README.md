@@ -22,9 +22,9 @@
 
 - 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ellen-yim](https://www.linkedin.com/in/ellen-yim)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ellen-yim)
 
-- Interests in Software Engineering, Data, and Cyber (as a full-time job)
+- Interests in Software Engineering, Data, and Cyber
 
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities. 
 
