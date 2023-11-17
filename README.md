@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ellen Yim</h1>
+<img width="1834" alt="Ellen-headline" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/2c437216-26df-4279-aabe-00c137c18dea">
+
 <!---
+<h1 align="center">Hi 👋, I'm Ellen Yim</h1>
+
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 
 - 🌱 I'm currently honing my skills with problem solving in data analysis and software engineering (data structures & algorithms). 
