@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<img width="1834" alt="ellen-github-banner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/5be3f93b-0176-4f29-94e7-d84952741caa">
+<img width="1834" alt="ellen-GitHub-Banner-headline" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/3959bc9d-b862-49b6-b885-38ac24d9ec3a">
 
 <!---
 <h1 align="center">Hi 👋, I'm Ellen Yim</h1>
+<img width="1834" alt="ellen-github-banner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/5be3f93b-0176-4f29-94e7-d84952741caa">
 <img width="1834" alt="Ellen-headline-github" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/8b917239-490c-4874-bcff-e0362bbb467e">
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 
