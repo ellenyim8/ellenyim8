@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="1834" alt="ellen-GitHub-Banner-headline" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/3959bc9d-b862-49b6-b885-38ac24d9ec3a">
+<img width="1834" alt="ellen-github-banner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/9621b6df-5220-478b-bdb3-ae6772a2f64d">
 
 <!---
 <h1 align="center">Hi 👋, I'm Ellen Yim</h1>
