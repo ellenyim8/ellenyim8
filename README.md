@@ -12,7 +12,7 @@
 --->
 <!-- - 🌱 I’m currently learning skills to become a Data Analyst.
  -->
-- 👯 I’m looking to collaborate with anyone.
+- 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her
 
