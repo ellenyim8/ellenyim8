@@ -22,14 +22,14 @@
   https://www.instagram.com/ellenyim8/ <br> 
   https://www.facebook.com/ellenyim8 <br> 
 
-- ⚡ Fun fact: I enjoy hiking and traveling to new places. 
+- ⚡ Fun fact: I enjoy hiking and traveling to new places.
 
 - 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ellen-yim)
 
 - Interests in Software Engineering, Data, and Cybersecurity
-
+  
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities. 
 
 <h3 align="left">Connect with me:</h3>
