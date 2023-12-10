@@ -22,7 +22,7 @@
   https://www.instagram.com/ellenyim8/ <br> 
   https://www.facebook.com/ellenyim8 <br> 
 
-- 🌱 I’m currently learning more about algorithm development and parallel solutions in software and data practices. 
+- 🌱 I’m currently learning more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms. 
 
 - 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
