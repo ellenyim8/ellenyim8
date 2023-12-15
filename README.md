@@ -7,11 +7,10 @@
 <img width="1834" alt="ellen-github-banner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/5be3f93b-0176-4f29-94e7-d84952741caa">
 <img width="1834" alt="Ellen-headline-github" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/8b917239-490c-4874-bcff-e0362bbb467e">
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
-
-- 🌱 I'm currently honing my skills with problem solving in data analysis and software engineering (data structures & algorithms). 
 --->
-<!-- - 🌱 I’m currently learning skills to become a Data Analyst.
- -->
+
+- 🌱 I’m currently learning more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.
+  
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her
@@ -21,8 +20,6 @@
   <b>ellenyim18@gmail.com</b> <br> 
   https://www.instagram.com/ellenyim8/ <br> 
   https://www.facebook.com/ellenyim8 <br> 
-
-- 🌱 I’m currently learning more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms. 
 
 - 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
@@ -55,5 +52,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
