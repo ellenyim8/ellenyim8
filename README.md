@@ -9,7 +9,9 @@
 <h3 align="center">A passionate graduated student with a Bachelors in Computer Science interested in working in fields A.I., Software Engineering, Data, or Cybersecurity.</h3>
 --->
 
-- 🌱 I’m currently learning React. <!--- more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.---> 
+- 🌱 I’m currently learning React.
+<!--- 
+more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.--> 
   
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
