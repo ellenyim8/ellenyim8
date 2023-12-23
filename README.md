@@ -2,7 +2,7 @@
 
 <img width="1834" alt="README-Ellen" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/225c9758-5d4e-4bbb-9682-8e3dcfc08c2b">
 
-- 🌱 I’m currently learning React and Generative AI.
+- 🌱 I’m currently learning React and Prompt Engineering.
 <!--- 
 more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.--> 
   
