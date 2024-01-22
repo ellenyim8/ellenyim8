@@ -13,8 +13,6 @@ more about algorithm development and parallel solutions in software and data pra
 - 📫 How to reach me:  <br> 
   https://www.linkedin.com/in/ellen-yim  <br> 
   <b>ellenyim18@gmail.com</b> <br> 
-  https://www.instagram.com/ellenyim8/ <br> 
-  https://www.facebook.com/ellenyim8 <br> 
 
 - 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
 
