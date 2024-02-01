@@ -2,7 +2,7 @@
 
 <img width="1834" alt="README-Ellen" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/225c9758-5d4e-4bbb-9682-8e3dcfc08c2b">
 
-- 🌱 I’m currently learning Prompt Engineering (Generative AI) practices.
+- 🌱 I’m currently learning Prompt Engineering (Generative AI) practices, studying on AWS cloud practitioner.
 <!--- 
 more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.--> 
   
@@ -50,8 +50,9 @@ more about algorithm development and parallel solutions in software and data pra
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>  
-<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://www.skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/> </a> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://www.skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>  <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vs" alt="vs" width="40" height="40"/> </a>
+<a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://www.skillicons.dev/icons?i=vim" alt="vim" width="40" height="40"/> </a> <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://www.skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>  <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="vs" width="40" height="40"/> </a>
 <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>  
+<!-- <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> -->
 </p>
 
 
