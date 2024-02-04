@@ -17,7 +17,7 @@ more about algorithm development and parallel solutions in software and data pra
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ellen-yim)
 
-- Interests in Software Engineering, AI, & Security
+- Interests: Software Engineering, Data Science, cybersecurity, Web Development
   
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities. 
 
