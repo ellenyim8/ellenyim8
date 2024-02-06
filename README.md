@@ -56,6 +56,12 @@ more about algorithm development and parallel solutions in software and data pra
 </p>
 
 
+Certifications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5162000d-fb6c-423e-87cf-49e0a159ec40" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
