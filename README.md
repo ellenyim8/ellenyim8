@@ -56,10 +56,11 @@ more about algorithm development and parallel solutions in software and data pra
 </p>
 
 
-Certifications
+<h3 align="left">Certifications:</h3>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5162000d-fb6c-423e-87cf-49e0a159ec40" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[IBM DA0101EN Certificate _ Cognitive Class.pdf](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf)
 
+![data-analysis-using-python](https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452)
 
 
 <!--
