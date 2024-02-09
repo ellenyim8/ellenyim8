@@ -23,7 +23,7 @@ more about algorithm development and parallel solutions in software and data pra
 
 - Interests: Data Science, Cybersecurity, Web Development (Software Engineering)
   
-- I’m currently seeking for job interviews. Please reach out and connect with me for any entry to associate -level, full-time opportunities. 
+- I’m currently seeking for job interviews. Please reach out and connect with me for any entry to associate -level, full-time opportunities as an Administrative Assistant, Data Analyst, Web Developer, or Security Analyst.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
