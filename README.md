@@ -67,10 +67,9 @@ more about algorithm development and parallel solutions in software and data pra
 
 [IBM ML0101EN Certificate _ Cognitive Class.pdf](https://github.com/ellenyim8/ellenyim8/files/14217184/IBM.ML0101EN.Certificate._.Cognitive.Class.pdf)
 
-![data-analysis-using-python](https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452)
+<img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452" alt="dataanalysisbadge" width="70" height="70"/> 
 
-![machine-learning-with-python-level-1](https://github.com/ellenyim8/ellenyim8/assets/69826832/128cbd75-41db-4116-bc86-ca37c6c05e8d)
-
+<img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/128cbd75-41db-4116-bc86-ca37c6c05e8d" alt="mlbadge" width="70" height="70"/>
 
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
