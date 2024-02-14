@@ -17,8 +17,8 @@ more about algorithm development and parallel solutions in software and data pra
 - 📫 How to reach me:  <br> 
   <b>ellenyim18@gmail.com</b> <br> 
 
-- 👨‍💻 My public repository projects are available [here](https://www.github.com/ellenyim8) & [Portfolio Website](https://ellenyim8.github.io/MyPortfolio/)
-
+<!--- - 👨‍💻 My public repository projects are available here --> 
+  
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ellen-yim)
 
 - I'm interested working for any industry, where I can align my skills and passion into the role. 
