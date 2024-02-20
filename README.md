@@ -66,7 +66,7 @@ more about algorithm development and parallel solutions in software and data pra
 
 <h3 align="left">Certifications:</h3>
 
-<img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/bacd885d-3513-4298-a544-18e85a100c59" alt="administrativeassistance" width="200" height="200"/> 
+<img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/bacd885d-3513-4298-a544-18e85a100c59" alt="administrativeassistance" width="320" height="240"/> 
 
 [IBM DA0101EN -Data Analysis](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf)
 
