@@ -65,10 +65,13 @@ more about algorithm development and parallel solutions in software and data pra
 
 
 <h3 align="left">Certifications:</h3>
+<!---
+<img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/bacd885d-3513-4298-a544-18e85a100c59" alt="administrativeassistance" width="200" height="200"/> --->
+[Career Essentials in Administrative Assistance](https://github.com/ellenyim8/ellenyim8/files/14339784/CertificateOfCompletion_Career.Essentials.in.Administrative.Assistance.by.Microsoft.and.LinkedIn.pdf)
 
-[IBM DA0101EN Certificate _ Cognitive Class.pdf](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf)
+[IBM DA0101EN -Data Analysis](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf)
 
-[IBM ML0101EN Certificate _ Cognitive Class.pdf](https://github.com/ellenyim8/ellenyim8/files/14217184/IBM.ML0101EN.Certificate._.Cognitive.Class.pdf)
+[IBM ML0101EN -Machine Learning](https://github.com/ellenyim8/ellenyim8/files/14217184/IBM.ML0101EN.Certificate._.Cognitive.Class.pdf)
 
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452" alt="dataanalysisbadge" width="120" height="120"/> 
 
