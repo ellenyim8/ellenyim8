@@ -23,7 +23,7 @@ more about algorithm development and parallel solutions in software and data pra
 
 - I'm interested working for any industry, where I can align my skills and passion into the role. 
 
-- Interests: Data Science, Cybersecurity, Web Development (Software Engineering)
+- Interests: Data Analytics, Cybersecurity, Data Science, Software Engineering
   
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry to associate -level, full-time opportunities as an Administrative Assistant, Data Analyst, Web Developer, or cyber crime Analyst.
 
