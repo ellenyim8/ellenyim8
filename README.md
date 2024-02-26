@@ -2,9 +2,10 @@
 
 <!---
 <img width="1834" alt="ellenGitHubBanner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d9121c7e-1925-4d8e-975d-e679609087e6">
---->
 
 - Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
+--->
+
 
 - 🌱 I’m currently learning Prompt Engineering (Generative AI) practices.
 <!--- 
