@@ -6,10 +6,9 @@
 - Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
 --->
 
-
-- 🌱 I’m currently learning Prompt Engineering (Generative AI) practices.
 <!--- 
-more about algorithm development and parallel solutions in software and data practices, as well as learning machine learning algorithms.--> 
+- 🌱 I’m currently learning Prompt Engineering (Generative AI) practices.
+--> 
   
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
