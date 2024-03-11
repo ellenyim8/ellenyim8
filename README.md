@@ -6,7 +6,7 @@
 - Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
 --->
 
-- I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Scientist. 
+- I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Analyst. 
 
 - **Interests: Cybersecurity, Data Analytics, Data Science**
 <!--
