@@ -64,6 +64,7 @@
 <a> <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d638edc5-b78f-418a-af45-e34f6d68b195" alt="sharepoint" width="40" height="40" /> </a>
 <a> <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/0f2b3771-cce0-42b3-af0d-5a8067ea83c9" alt="excel" width="40" height="40" /> </a>
 <a> <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/27c27230-6929-46b2-9669-c1cf3ac918a2" alt="powerpoint" width="40" height="40" /> </a>
+<a> <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/c18d03d6-c380-44ce-ba87-0de9f6b7138a" alt="word" width="40" height="40" /> </a>
 
 <!-- <a href="https://skillicons.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>  
  -->
