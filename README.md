@@ -82,9 +82,7 @@
 
 [IBM DA0101EN -Data Analysis](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf) <br> 
 [IBM ML0101EN -Machine Learning](https://github.com/ellenyim8/ellenyim8/files/14217184/IBM.ML0101EN.Certificate._.Cognitive.Class.pdf) 
-
 ---> 
-
 
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452" alt="dataanalysisbadge" width="80" height="80"/>  <br> 
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/128cbd75-41db-4116-bc86-ca37c6c05e8d" alt="mlbadge" width="80" height="80"/>
