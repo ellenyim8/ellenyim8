@@ -12,7 +12,7 @@
 <!--
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
 --> 
-- 📄 Know about my experiences in cybersecurity, office administration, and website management [LinkedIn](https://www.linkedin.com/in/ellen-yim)
+- 📄 Know about my experiences in cybersecurity, office administration, and website management
 
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
