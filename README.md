@@ -6,24 +6,20 @@
 - Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
 - I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Analyst. 
 
---->
-
-- **Interests: Cybersecurity, Data Analytics, Data Science**
-<!--
-- I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
---> 
 - 📄 Know about my experiences in cybersecurity, office administration, and website management
 
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her
-
-- 📫 How to reach me:  <br> 
-  <b>ellenyim18@gmail.com</b> <br> 
-
-<!--- 
-- 🌱 I’m currently learning Prompt Engineering (Generative AI) practices.
+- I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
 --> 
+- 👩🏻‍💻 **Interests: Cybersecurity, Data Analytics, Data Science**
+
+- 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/; Utilized domain that GitHub Pages gives.
+
+- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
+
+<!---  - 🌱 I’m currently learning Prompt Engineering (Generative AI) practices. --> 
 <!--- - 👨‍💻 My public repository projects are available here --> 
 
 <h3 align="left">Connect with me:</h3>
