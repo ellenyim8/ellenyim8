@@ -74,7 +74,7 @@
 
 <h3 align="left">Certifications:</h3>
 
-<img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="120" height="80" />
+<img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="320" height="240" />
 
 
 <!---
