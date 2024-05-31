@@ -72,6 +72,11 @@
 -->
 </p>
 
+<h3 align="left">Certifications:</h3>
+
+<img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="120" height="80" />
+
+
 <!---
 <h3 align="left">Certifications:</h3>
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/bacd885d-3513-4298-a544-18e85a100c59" alt="administrativeassistance" width="320" height="240"/> 
