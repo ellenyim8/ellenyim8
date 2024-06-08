@@ -74,26 +74,22 @@
 
 <h3 align="left">Certifications:</h3>
 
-<img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="320" height="240" />
-
+<img width="320" height="240" alt="DataAnalyst_Cert" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/b3f50117-fd55-4483-a6a1-6778a2050a44"/>
 
 <!---
-<h3 align="left">Certifications:</h3>
+<img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="320" height="240" />
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/bacd885d-3513-4298-a544-18e85a100c59" alt="administrativeassistance" width="320" height="240"/> 
 
 [IBM DA0101EN -Data Analysis](https://github.com/ellenyim8/ellenyim8/files/14183955/IBM.DA0101EN.Certificate._.Cognitive.Class.pdf) <br> 
 [IBM ML0101EN -Machine Learning](https://github.com/ellenyim8/ellenyim8/files/14217184/IBM.ML0101EN.Certificate._.Cognitive.Class.pdf) 
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/e85ec141-788b-4d1d-a030-1cc04603f452" alt="dataanalysisbadge" width="80" height="80"/>  <br> 
 <img src="https://github.com/ellenyim8/ellenyim8/assets/69826832/128cbd75-41db-4116-bc86-ca37c6c05e8d" alt="mlbadge" width="80" height="80"/>
-
 ---> 
 
 
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
