@@ -12,10 +12,11 @@
 
 - 😄 Pronouns: she/her
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
---> 
 - 👩🏻‍💻 **Interests: Cybersecurity, Data Analytics, Data Science**
 
-- 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/; Utilized domain that GitHub Pages gives.
+--> 
+
+- 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/
 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
 
