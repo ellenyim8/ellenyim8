@@ -21,6 +21,22 @@
 
 <!---  - 🌱 I’m currently learning Prompt Engineering (Generative AI) practices. --> 
 <!--- - 👨‍💻 My public repository projects are available here --> 
+<h3 align="left">Project Reports </h3>
+
+[Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
+* Data Analysis with Python, Machine Learning
+
+[Hotel Chain Database](https://github.com/user-attachments/files/16114194/CS.166.project.report.pdf)
+* Databases, SQL queries, Java
+* https://github.com/ellenyim8/CS-166/tree/main/Project/cs166_project-main 
+
+[Webmart](https://github.com/user-attachments/files/16114197/cs180.-project.report.pdf)
+* Software Engineering, Web development, Website, HTML, CSS, JavaScript, Nodejs, Selenium
+* https://github.com/ellenyim8/WebMart
+
+[Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
+* Unity, C#, Game Development
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
