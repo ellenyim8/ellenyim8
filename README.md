@@ -85,12 +85,12 @@
 ![excel](https://github.com/ellenyim8/ellenyim8/assets/69826832/0f2b3771-cce0-42b3-af0d-5a8067ea83c9)
 ![powerpoint](https://github.com/ellenyim8/ellenyim8/assets/69826832/27c27230-6929-46b2-9669-c1cf3ac918a2)
 ![sharepoint](https://github.com/ellenyim8/ellenyim8/assets/69826832/d638edc5-b78f-418a-af45-e34f6d68b195)
--->
-</p>
 
 <h3 align="left">Certifications:</h3>
-
 <img width="320" height="240" alt="DataAnalyst_Cert" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/b3f50117-fd55-4483-a6a1-6778a2050a44"/>
+
+-->
+</p>
 
 <!---
 <img src= https://github.com/ellenyim8/ellenyim8/assets/69826832/bcf8b649-cb19-4b0d-b703-85001723bb3b alt="excel-stats-cert" width="320" height="240" />
