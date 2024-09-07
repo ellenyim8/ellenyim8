@@ -13,15 +13,8 @@
 - 😄 Pronouns: she/her
 - I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
 - 👩🏻‍💻 **Interests: Cybersecurity, Data Analytics, Data Science**
-
---> 
-
 - 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/
 
-- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
-
-<!---  - 🌱 I’m currently learning Prompt Engineering (Generative AI) practices. --> 
-<!--- - 👨‍💻 My public repository projects are available here --> 
 <h3 align="left">Project Reports </h3>
 
 [Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
@@ -37,6 +30,12 @@
 
 [Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
 * Unity, C#, Game Development
+--> 
+
+- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
+
+<!---  - 🌱 I’m currently learning Prompt Engineering (Generative AI) practices. --> 
+<!--- - 👨‍💻 My public repository projects are available here --> 
   
 
 <h3 align="left">Connect with me:</h3>
