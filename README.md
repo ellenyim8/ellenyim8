@@ -64,11 +64,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="/src/excel.svg width=24 height=24" />
-    <img src="/src/onenote.svg"/>
-    <img src="/src/powerpoint.svg"/>
-    <img src="/src/word.svg"/>
-    <img src="/src/teams.svg"/>
+    <img src="/src/excel.svg" width="24" height="24"/>
+    <img src="/src/onenote.svg" width="24" height="24"/>
+    <img src="/src/powerpoint.svg" width="24" height="24"/>
+    <img src="/src/word.svg" width="24" height="24"/>
+    <img src="/src/teams.svg" width="24" height="24"/>
   </a>
 </p>
 
