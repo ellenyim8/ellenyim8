@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda," />
+    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda,excel" />
   </a>
 </p>
 
