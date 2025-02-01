@@ -62,16 +62,16 @@
   </a>
 </p>
 
-<!--- 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="/src/excel.svg" width="36" height="36"/>
-    <img src="/src/onenote.svg" width="36" height="36"/>
-    <img src="/src/powerpoint.svg" width="36" height="36"/>
-    <img src="/src/word.svg" width="36" height="36"/>
-    <img src="/src/teams.svg" width="36" height="36"/>
+    <img src="/src/excel.svg" width="48" height="48"/>
+    <img src="/src/onenote.svg" width="48" height="48"/>
+    <img src="/src/powerpoint.svg" width="48" height="48"/>
+    <img src="/src/word.svg" width="48" height="48"/>
+    <img src="/src/teams.svg" width="48" height="48"/>
   </a> 
-</p> ---> 
+</p> 
 
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
