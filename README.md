@@ -3,11 +3,11 @@
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her <br> 
-🔹 Current Role: Office Supervisor | Customer Service Specialist <br> 
+- 🔹 Current Role: Office Supervisor | Customer Service Specialist <br> 
 
-🔹 Open to Opportunities: Office Administrator roles in Technology or Aerospace industries <br> 
+- 🔹 Open to Opportunities: Office Administrator roles in Technology or Aerospace industries <br> 
 
-🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, sales, etc.), and contribute to a dynamic team environment.  <br> 
+- 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, sales, etc.), and contribute to a dynamic team environment.  <br> 
 
 
 <!--- - 👩🏻‍💻 **Passion: Administration, Cybersecurity, Data Analytics, Deep Learning** <br> 
