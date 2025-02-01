@@ -41,7 +41,7 @@
   
 </p>
 
-<h3 align="left">Skillset:</h3>
+<h3 align="left">Skill set:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,10 +57,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda,excel" />
+    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda," />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
+</p>
 
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
