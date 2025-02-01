@@ -1,13 +1,5 @@
 ### Hello there 👋 I'm Ellen 👩🏻‍💻
 
-
-<!---
-<img width="1834" alt="ellenGitHubBanner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d9121c7e-1925-4d8e-975d-e679609087e6">
-- Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
-- I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Analyst. 
-
-- 📄 Know about my experiences in cybersecurity, office administration, and website management
-
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her
@@ -16,6 +8,14 @@
 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, sales, etc.), and contribute to a dynamic team environment. 
 - 👩🏻‍💻 **Passion: Administration, Cybersecurity, Data Analytics, Deep Learning**
 - 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/
+
+
+<!---
+<img width="1834" alt="ellenGitHubBanner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d9121c7e-1925-4d8e-975d-e679609087e6">
+- Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
+- I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Analyst. 
+
+- 📄 Know about my experiences in cybersecurity, office administration, deep learning, and data analystics
 
 <h3 align="left">Project Reports </h3>
 
