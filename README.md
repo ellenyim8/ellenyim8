@@ -57,13 +57,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda," />
+    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,canva,photoshop,anaconda," />
+    <img src="/src/sharepoint.svg"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="/src/excel.svg" />
+    <img src="/src/onenote.svg"/>
+    <img src="/src/powerpoint.svg"/>
+    <img src="/src/word.svg"/>
+    <img src="/src/teams.svg"/>
   </a>
 </p>
 
