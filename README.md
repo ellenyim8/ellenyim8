@@ -45,17 +45,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,c,vim,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,vim,bash,cmake,cpp,linux,vscode,visualstudio" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,cpp,linux,vscode,vs" />
+    <img src="https://skillicons.dev/icons?i=py,pycharm,sklearn,pytorch,tensorflow,replit,regex,qt,powershell,postgres" />
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,anaconda," />
+  </a>
+</p>
 
 
 <!--
