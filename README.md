@@ -11,8 +11,10 @@
 - 👯 I’m looking to collaborate with anyone whether to network or work on a project.
 
 - 😄 Pronouns: she/her
-- I’m currently seeking for job interviews. Please reach out and connect with me for any entry-level, full-time opportunities as a Data Analyst, Cyber Analyst, or even continuing my role as an Administrative Assistant. 
-- 👩🏻‍💻 **Interests: Cybersecurity, Data Analytics, Data Science**
+🔹 Current Role: Office Supervisor | Customer Service Specialist
+🔹 Open to Opportunities: Office Administrator roles in Technology or Aerospace industries
+🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, sales, etc.), and contribute to a dynamic team environment. 
+- 👩🏻‍💻 **Passion: Administration, Cybersecurity, Data Analytics, Deep Learning**
 - 💻 Website portfolio - https://ellenyim8.github.io/ellenyim_portfolio/
 
 <h3 align="left">Project Reports </h3>
