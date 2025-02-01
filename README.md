@@ -57,11 +57,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,canva,photoshop,anaconda," />
-    <img src="/src/sharepoint.svg" width="36" height="36"/>
+    <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,illustrator,photoshop,anaconda" />
+    <img src="/src/sharepoint.svg" width="40" height="40"/>
   </a>
 </p>
 
+<!--- 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="/src/excel.svg" width="36" height="36"/>
@@ -69,8 +70,8 @@
     <img src="/src/powerpoint.svg" width="36" height="36"/>
     <img src="/src/word.svg" width="36" height="36"/>
     <img src="/src/teams.svg" width="36" height="36"/>
-  </a>
-</p>
+  </a> 
+</p> ---> 
 
 <!--
 **ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
