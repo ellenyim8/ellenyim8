@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="/src/excel.svg" />
+    <img src="/src/excel.svg width=24 height=24" />
     <img src="/src/onenote.svg"/>
     <img src="/src/powerpoint.svg"/>
     <img src="/src/word.svg"/>
