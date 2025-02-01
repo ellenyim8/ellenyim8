@@ -58,7 +58,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=latex,linkedin,discord,html,css,figma,illustrator,photoshop,anaconda" />
-    <img src="/src/sharepoint.svg" width="40" height="40"/>
+    <img src="/src/sharepoint.svg" width="48" height="48"/>
   </a>
 </p>
 
