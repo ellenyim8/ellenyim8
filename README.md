@@ -24,14 +24,12 @@
 <h3 align="left">Project Reports </h3>
 
 [Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
-* Data Analysis with Python, Machine Learning
 
 [Hotel Chain Database](https://github.com/user-attachments/files/16114194/CS.166.project.report.pdf)
-* Databases, SQL queries, Java
-* https://github.com/ellenyim8/CS-166/tree/main/Project/cs166_project-main 
+<!-- * https://github.com/ellenyim8/CS-166/tree/main/Project/cs166_project-main  -->
 
 [Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
-* Unity, C#, Game Development
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
