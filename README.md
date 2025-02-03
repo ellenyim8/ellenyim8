@@ -10,10 +10,6 @@
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, sales, etc.), and contribute to a dynamic team environment.  <br> 
 
 
-<!--- - 👩🏻‍💻 **Passion: Administration, Cybersecurity, Data Analytics, Deep Learning** <br> 
----> 
-
-
 <!---
 <img width="1834" alt="ellenGitHubBanner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d9121c7e-1925-4d8e-975d-e679609087e6">
 - Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
