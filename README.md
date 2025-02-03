@@ -11,9 +11,15 @@
 
 
 <!---
-<img width="1834" alt="ellenGitHubBanner" src="https://github.com/ellenyim8/ellenyim8/assets/69826832/d9121c7e-1925-4d8e-975d-e679609087e6">
-- Portfolio: https://ellenyim8.github.io/ellenyim_portfolio/
-- I'm interested working for any industry, where I can align my skills and passion into the role of Information Security Analyst, Technical Writer, Web Developer, or Data Analyst. 
+[Webmart](https://github.com/user-attachments/files/16114197/cs180.-project.report.pdf)
+* Software Engineering, Web development, Website, HTML, CSS, JavaScript, Nodejs, Selenium
+* https://github.com/ellenyim8/WebMart
+
+[Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
+* Unity, C#, Game Development
+--> 
+
+- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
 
 <h3 align="left">Project Reports </h3>
 
@@ -24,16 +30,8 @@
 * Databases, SQL queries, Java
 * https://github.com/ellenyim8/CS-166/tree/main/Project/cs166_project-main 
 
-[Webmart](https://github.com/user-attachments/files/16114197/cs180.-project.report.pdf)
-* Software Engineering, Web development, Website, HTML, CSS, JavaScript, Nodejs, Selenium
-* https://github.com/ellenyim8/WebMart
-
 [Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
 * Unity, C#, Game Development
---> 
-
-- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
