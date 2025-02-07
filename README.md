@@ -10,15 +10,6 @@
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, IT, etc.), and contribute to a dynamic team environment.  <br> 
 
 
-<!---
-[Webmart](https://github.com/user-attachments/files/16114197/cs180.-project.report.pdf)
-* Software Engineering, Web development, Website, HTML, CSS, JavaScript, Nodejs, Selenium
-* https://github.com/ellenyim8/WebMart
-
-[Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
-* Unity, C#, Game Development
---> 
-
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
 
 <h3 align="left">Project Reports </h3>
@@ -26,7 +17,6 @@
 [Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
 
 [Hotel Chain Database](https://github.com/user-attachments/files/16114194/CS.166.project.report.pdf)
-<!-- * https://github.com/ellenyim8/CS-166/tree/main/Project/cs166_project-main  -->
 
 [Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
 
