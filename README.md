@@ -66,6 +66,10 @@
     <img src="/src/powerpoint.svg" width="48" height="48"/>
     <img src="/src/word.svg" width="48" height="48"/>
     <img src="/src/teams.svg" width="48" height="48"/>
+    <img src="/src/docs_48dp.png" width="48" height="48"/>
+    <img src="/src/slides_48dp.png" width="48" height="48"/>
+    <img src="/src/sheets_48dp.png" width="48" height="48"/>
+    <img src="/src/forms_48dp.png" width="48" height="48"/> 
   </a> 
 </p> 
 
