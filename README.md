@@ -12,6 +12,7 @@
 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
 
+<!----- 
 <h3 align="left">Project Reports </h3>
 
 [Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
@@ -19,7 +20,7 @@
 [Hotel Chain Database](https://github.com/user-attachments/files/16114194/CS.166.project.report.pdf)
 
 [Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
-
+----> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
