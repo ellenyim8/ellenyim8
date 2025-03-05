@@ -1,16 +1,11 @@
 ### Hello there 👋 I'm Ellen 👩🏻‍💻
 
-- 👯 I’m looking to collaborate with anyone whether to network or work on a project.
-
 - 😄 Pronouns: she/her <br> 
 - 🔹 Current Role: Office Supervisor | Customer Service Specialist <br> 
-
 - 🔹 Open to Opportunities: Office Administrator roles in Technology or Aerospace industries <br> 
-
-- 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals across departments (executives, engineers, IT, etc.), and contribute to a dynamic team environment.  <br> 
-
-
-- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br> 
+- 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
+- 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br>
+- 💻 https://ellenyim8.github.io/ellenyim.github.io/ 
 
 <!----- 
 <h3 align="left">Project Reports </h3>
