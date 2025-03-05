@@ -5,7 +5,7 @@
 - 🔹 Open to Opportunities: Office Administrator roles in Technology or Aerospace industries <br> 
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br>
-- 💻 https://ellenyim8.github.io/ellenyim.github.io/ 
+- 💻 [https://ellenyim8.github.io/ellenyim.github.io/](Portfolio)
 
 <!----- 
 <h3 align="left">Project Reports </h3>
