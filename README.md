@@ -17,13 +17,14 @@ Utilized C with Flex and Bison to build compiler components, integrating the com
 Debugged and resolved complex shift/reduce and reduce/reduce conflicts during semantic phase using careful code tracing and test-driven iteration.
 Demonstrated strong understanding of compiler theory and systems-level programming in a Unix environment.
 
+<!--- 
 🎮 Adventure RPG (Command-Line Game) <br> 
 Languages/Tools: C++, Git, GoogleTest, CLI, GitHub Actions 
 
 Developed a turn-based RPG command-line interface game using design patterns (Strategy, Composite) to enforce maintainable, scalable architecture.
 Implemented thorough unit testing with GoogleTest and automated CI pipelines via GitHub Actions.
 Collaborated in an Agile team using Scrum methodologies and version control with Git.
-Practiced clean code principles, modular design, and continuous integration workflows.
+Practiced clean code principles, modular design, and continuous integration workflows. ---> 
 
 🌐 WebMart (Full-Stack E-commerce Site) <br> 
 Languages/Tools: JavaScript, Node.js, MongoDB, HTML/CSS, Selenium, Waterfall methodology <br> 
