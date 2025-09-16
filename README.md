@@ -2,8 +2,8 @@
 
 - 😄 Pronouns: she/her <br> 
 - 🔹 Current Role: Office Supervisor | Customer Service Specialist <br> 
-- 🔹 Open to Opportunities: Office Administrator roles in Technology or Entertainment industries <br>
-- 🔹 Job interests: (Preferably) Data Analyst (Entry/Associate role),  also (Administrative Assistant) 
+- 🔹 Open to Opportunities: Office Administrator roles <br>
+- 🔹 Job interests: (Preferably) Data Analyst (Entry/Associate role)  
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br>
 - 💻 [About Me](https://ellenyim8.github.io/ellenyim.github.io/)
