@@ -68,7 +68,7 @@ Designed an ER model and implemented a relational schema for a hotel chain syste
   
 </p>
 
-<h3 align="left">Skill set:</h3>
+<h3 align="left">Technical Skillset:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
