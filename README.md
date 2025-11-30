@@ -1,7 +1,7 @@
 ### Hello there 👋 I'm Ellen 👩🏻‍💻
 
 - 😄 Pronouns: she/her <br> 
-- 🔹 Current Role: Office Supervisor | Customer Service Specialist <br> 
+- 🔹 Current Role: Executive Assistant & Customer Service Specialist <br> 
 - 🔹 Open to Opportunities: Office Administrator roles <br>
 - 🔹 Job interests: (Preferably) business/data Analyst (Entry/Associate role)  
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
