@@ -2,11 +2,11 @@
 
 - 😄 Pronouns: she/her <br> 
 - 🔹 Current Role: Executive Assistant & Customer Service Specialist <br> 
-- 🔹 Open to Opportunities: Office Administrator roles <br>
-- 🔹 Job interests: (Preferably) business/data Analyst (Entry/Associate role)  
+- 🔹 Open to Opportunities: Business Analyst, Office Administrator <br>
+- 🔹 Job interests: (Preferably) Business/data Analyst (Entry/Associate role)  
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br>
-- 💻 [About Me](https://ellenyim8.github.io/ellenyim.github.io/)
+<!--- - 💻 [About Me](https://ellenyim8.github.io/ellenyim.github.io/) ---> 
 
 
 💡 **inh Programming Language** <br> 
@@ -24,7 +24,7 @@ Languages/Tools: C++, Git, GoogleTest, CLI, GitHub Actions
 Developed a turn-based RPG command-line interface game using design patterns (Strategy, Composite) to enforce maintainable, scalable architecture.
 Implemented thorough unit testing with GoogleTest and automated CI pipelines via GitHub Actions.
 Collaborated in an Agile team using Scrum methodologies and version control with Git.
-Practiced clean code principles, modular design, and continuous integration workflows. ---> 
+Practiced clean code principles, modular design, and continuous integration workflows.
 
 🌐 **WebMart** (Full-Stack E-commerce Site) <br> 
 Languages/Tools: JavaScript, Node.js, MongoDB, HTML/CSS, Selenium, Waterfall methodology <br> 
@@ -33,7 +33,7 @@ GitHub: https://github.com/ellenyim8/WebMart
 Collaborated with a 6-member team to develop a dynamic e-commerce platform simulating online retail operations.
 Led frontend development using HTML/CSS and JavaScript, and integrated backend functionality with Node.js and MongoDB.
 Implemented end-to-end testing using Selenium to ensure robustness of user flows and transaction logic.
-Applied structured planning using the Waterfall model, emphasizing organized execution and delivery of system components.
+Applied structured planning using the Waterfall model, emphasizing organized execution and delivery of system components. ---> 
 
 🧠 **Emotion Classification** (NLP Project) <br> 
 Languages/Tools: Python, Pandas, Scikit-learn, NLP, Jupyter Notebooks
@@ -49,18 +49,6 @@ Languages/Tools: SQL, ER Diagrams
 
 Designed an ER model and implemented a relational schema for a hotel chain system. Wrote SQL queries for complex data analysis and ensured referential integrity through normalization and testing.
 
-
-
-
-<!----- 
-<h3 align="left">Project Reports </h3>
-
-[Movies Forecast](https://github.com/user-attachments/files/16114186/CS105.Final.Project.Report.pdf)
-
-[Hotel Chain Database](https://github.com/user-attachments/files/16114194/CS.166.project.report.pdf)
-
-[Star Trail](https://github.com/user-attachments/files/16114205/CS179N_Report.pdf)
-----> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -105,15 +93,4 @@ Designed an ER model and implemented a relational schema for a hotel chain syste
 </p> 
 
 
-<!--
-**ellenyim8/ellenyim8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
