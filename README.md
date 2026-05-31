@@ -1,8 +1,8 @@
 ### Hello there 👋 I'm Ellen 👩🏻‍💻
 
 - 😄 Pronouns: she/her <br> 
-- 🔹 Current Role: Executive Assistant & Customer Service Specialist <br> 
-- 🔹 Open to Opportunities: Business Analyst, Office Administrator <br>
+- 🔹 Current Role: Customer Success Specialist <br> 
+- 🔹 Open to Opportunities: Implementation Specialist, Customer Success Associate (Junior roles), Executive Assistant <br>
 - 🔹 Job interests: (Preferably) Business/data Analyst (Entry/Associate role)  
 - 🔹 Looking For: A place where I can continue to grow my skills, connect with professionals, and contribute to a dynamic team environment.  <br> 
 - 📫 How to reach me: <b>ellenyim18@gmail.com</b> <br>
